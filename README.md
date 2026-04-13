@@ -3,7 +3,7 @@
 **Author:** Federico Tessari, PhD  
 **Affiliation:** Mechanical Engineering Department, MIT  
 **Contact:** ftessari@mit.edu  
-**Last Update:** October 16, 2025  
+**Last Update:** April 13, 2026  
 
 ---
 
