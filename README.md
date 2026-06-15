@@ -10,7 +10,7 @@
 ## Overview
 
 This repository contains the full MATLAB analysis pipeline for the **Gimbal Experiment**, designed to study **maximum voluntary force (MVF)** and **force coordination** under different arm configurations and task conditions.  
-The script reproduces all figures and statistics reported in the related manuscript (**Figs. 2–5** and **Supplementary Figs. 13–22**).
+The script reproduces all figures and statistics reported in the related manuscript (**Figs. 2–5** and **Supplementary Figs. 4-13**).
 
 The analysis is fully automated: simply run `main.m` to import, process, and visualize data for all subjects.  
 All required data are included in this repository.
@@ -39,7 +39,7 @@ The script executes the following stages:
    - Conducts paired *t*-tests between Pre- and Post-MVF conditions  
 
 5. **Visualization**  
-   - Single-Subject Analysis (Figs. 2, 13–21): time-series plots for total and component forces (Fx, Fy, Fz)  
+   - Single-Subject Analysis (Figs. 2, Supplementary Figs. 4–12): time-series plots for total and component forces (Fx, Fy, Fz)  
    - Per-Subject Boxplots (Fig. 3): distributions across tasks and conditions  
    - Histogram Summaries (Fig. 4): median differences between configurations  
    - Pre vs Post Comparisons (Fig. 5): boxplots aligned by subject with significance reporting  
